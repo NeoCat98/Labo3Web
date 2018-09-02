@@ -1,0 +1,93 @@
+input {
+    background-color: #e7e7e7; 
+    color: gray;
+    border-radius: 0.25em;
+    padding: 0.35em 0.8em;
+    border: 0em;
+    margin: 0.5em;
+}
+
+.buttonSmall{
+    font-size: 0.625em;
+    
+}
+
+.buttonNormal{
+    font-size: 1em;
+}
+
+.buttonBig{
+    font-size: 1.5em;
+}
+
+.buttonEsmeralda{
+    background-color: #50C878 ;
+    color: white;
+}
+
+.buttonCielo{
+    background-color: #87CEEB;
+    color: white;
+}
+
+.buttonAmatista{
+    background-color: #9966CC;
+    color: white;
+}
+
+.buttonAsfalto{
+    background-color: #2F2B2C;
+    color: white;
+}
+
+.buttonTopacio{
+    background-color: #FFC87C;
+    color: white;
+}
+
+.buttonRubi{
+    background-color: #E0115F ;
+    color: white;
+}
+
+/*      Color de los bordes      */
+.borde{
+    border: 0.1em solid;
+    background-color: white;
+}
+
+.bordeEsmeralda{
+    border: 0.1em solid #50C878;
+    color: #50C878;
+    background-color: white;
+}
+
+.bordeCielo{
+    border: 0.1em solid #87CEEB;
+    color: #87CEEB;
+    background-color: white;
+}
+
+.bordeAmatista{
+    border: 0.1em solid #9966CC;
+    color: #9966CC;
+    background-color: white;
+}
+
+.bordeAsfalto{
+    border: 0.1em solid #2F2B2C;
+    color: #2F2B2C;
+    background-color: white;
+}
+
+.bordeTopacio{
+    border: 0.1em solid #FFC87C;
+    color: #FFC87C;
+    background-color: white;
+}
+
+.bordeRubi{
+    border: 0.1em solid #E0115F;
+    color: #E0115F;
+    background-color: white;
+}
